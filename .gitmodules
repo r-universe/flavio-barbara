@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "waspasR"]
+	path = waspasR
+	url = https://github.com/flavio-barbara/waspasr
+	shallow = true
+	registered = true
